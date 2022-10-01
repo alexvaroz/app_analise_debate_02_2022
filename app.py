@@ -56,8 +56,8 @@ st.subheader('Análise estatística sobre as falas dos candidatos a presidente '
          'durante o último debate do primeiro turno das eleições de 2022')
 
 st.text('Eventos como esse são oportunidades para aplicar os conhecimentos básicos sobre '
-             '\nProcessamento de Linguagem Natural no sentido de compor análises construindo observações\n'
-             'que interessem a população em busca da confirmação da opção de voto.')
+             '\nProcessamento de Linguagem Natural no sentido de compor análises construindo \n'
+        'observações que interessem a população em busca da confirmação da opção \nde voto.')
 
 
 st.sidebar.header("Sobre o Debate")
