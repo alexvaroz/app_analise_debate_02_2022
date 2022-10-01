@@ -64,7 +64,7 @@ st.sidebar.header("Sobre o Debate")
 st.sidebar.info("Ocorreu no dia 29/09 (a 3 dias da eleição) e foi realizado pela Rede Globo."
                 "\n\n\n"
                 "A transcrição do debate foi obtida em: "
-                "https://www.poder360.com.br/eleicoes/leia-a-transcricao-do-debate-presidencial-da-band/"
+                "https://noticias.uol.com.br/eleicoes/2022/09/30/integra-debate-na-globo.htm"
                 "\n\n\n\n\n\n\n"
                 "A análise sobre o debate ocorrido em 28/08 está disponível em: \n"
                 "https://alexvaroz-app-analise-debate-01-2022-app-i5pv0j.streamlitapp.com/")
